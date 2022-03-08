@@ -1,0 +1,5 @@
+{
+    "TOKEN": "YOURTOKEN",
+    "channelId" : "THECHANNELID",
+    "prefix" : ">!"
+}
